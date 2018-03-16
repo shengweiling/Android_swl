@@ -16,7 +16,7 @@ import java.util.List;
 import okhttp3.OkHttpClient;
 import rx.Subscriber;
 import rx.functions.Action1;
-import test.swl.com.myapplication.manager.DownLoadRetorfitServiceManager;
+import test.swl.com.myapplication.retrofit.manager.DownLoadRetorfitServiceManager;
 import test.swl.com.myapplication.modle.FindHomepageBottomBean;
 import test.swl.com.myapplication.modle.FindHomepageTopBean;
 import test.swl.com.myapplication.modle.PersonInfoBean;

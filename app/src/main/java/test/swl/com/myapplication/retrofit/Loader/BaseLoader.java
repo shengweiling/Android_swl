@@ -9,7 +9,7 @@ import rx.functions.Func1;
 import test.swl.com.myapplication.modle.FindHomepageBottomBean;
 import test.swl.com.myapplication.modle.FindHomepageTopBean;
 import test.swl.com.myapplication.modle.PersonInfoBean;
-import test.swl.com.myapplication.manager.RetorfitServiceManger;
+import test.swl.com.myapplication.retrofit.manager.RetorfitServiceManger;
 import test.swl.com.myapplication.retrofit.service.FindService;
 import test.swl.com.myapplication.retrofit.service.MineService;
 

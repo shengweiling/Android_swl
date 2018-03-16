@@ -1,4 +1,4 @@
-package test.swl.com.myapplication.manager;
+package test.swl.com.myapplication.retrofit.manager;
 
 import android.os.Environment;
 import android.support.annotation.NonNull;
