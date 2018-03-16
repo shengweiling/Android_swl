@@ -9,7 +9,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * @desc
+ * @desc  添加公共参数的拦截器
  * @auth ${user}
  * @time 2018/3/14  16:35
  */

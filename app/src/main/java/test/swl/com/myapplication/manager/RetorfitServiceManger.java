@@ -1,4 +1,4 @@
-package test.swl.com.myapplication.retrofit;
+package test.swl.com.myapplication.manager;
 
 import java.util.concurrent.TimeUnit;
 

@@ -17,5 +17,5 @@ import rx.Observable;
 public interface LoadService {
     @GET
     @Streaming
-    Observable<ResponseBody> dowanLoadApk(@Url String fileUrl);
+    Observable<ResponseBody> dowanLoadApk(@Url String url);
 }
