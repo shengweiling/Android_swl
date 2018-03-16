@@ -1,4 +1,4 @@
-package test.swl.com.myapplication.retrofit;
+package test.swl.com.myapplication.retrofit.interceptor;
 
 import java.io.IOException;
 import java.util.HashMap;
